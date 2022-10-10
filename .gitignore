@@ -1,0 +1,9 @@
+
+#vsCode stuff
+.vscode
+
+#Debug
+bin
+obj
+
+BasicTicTacToeConsoleApp.csproj
